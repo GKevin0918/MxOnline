@@ -1,8 +1,9 @@
 # coding:utf-8
-import requests
-
 from __future__ import print_function
+
+import requests
 import httplib2
+
 from django.template import loader
 from django.core.cache import cache
 from django.utils import six
