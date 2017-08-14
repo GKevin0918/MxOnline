@@ -31,12 +31,17 @@ class UserProfile(AbstractUser):
 class EmailVerifyRecord(models.Model):
     code = models.CharField(max_length=20, verbose_name=u"验证码")
     email = models.EmailField(max_length=50, verbose_name=u"邮箱")
-    send_type = models.CharField(max_length=10, choices=(("register", u"注册"), ("forget", u"找回密码")))  # 区别注册邮箱和找回邮箱
-    send_time = models.DateTimeField(default=datetime.now)  # 区别过期验证码
+    send_type = models.CharField(max_length=10, choices=(("register", u"注册"), ("forget", u"找回密码")),
+                                 verbose_name=u"验证码类型")  # 区别注册邮箱和找回邮箱
+    send_time = models.DateTimeField(default=datetime.now, verbose_name=u"发送时间")  # 区别过期验证码
 
     class Meta:
         verbose_name = u"邮箱验证码"
         verbose_name_plural = verbose_name
+
+        # 重载方法
+        def __unicode__(self):
+            return '{0}({1})'.format(self.code, self.email)
 
 
 # 轮播图模块
