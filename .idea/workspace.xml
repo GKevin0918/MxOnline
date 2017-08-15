@@ -2,86 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7f1d098-5686-49ac-bcce-a569c17accad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/animate.css" afterPath="$PROJECT_DIR$/static/css/animate.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/aui.css" afterPath="$PROJECT_DIR$/static/css/aui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/login.css" afterPath="$PROJECT_DIR$/static/css/login.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/lq.datetimepick.css" afterPath="$PROJECT_DIR$/static/css/lq.datetimepick.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/muke/common-less.css" afterPath="$PROJECT_DIR$/static/css/muke/common-less.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/muke/course/common-less.css" afterPath="$PROJECT_DIR$/static/css/muke/course/common-less.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/muke/course/learn-less.css" afterPath="$PROJECT_DIR$/static/css/muke/course/learn-less.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/reset.css" afterPath="$PROJECT_DIR$/static/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/403.html" afterPath="$PROJECT_DIR$/static/html/403.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/404.html" afterPath="$PROJECT_DIR$/static/html/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/500.html" afterPath="$PROJECT_DIR$/static/html/500.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/course-comment.html" afterPath="$PROJECT_DIR$/static/html/course-comment.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/course-detail.html" afterPath="$PROJECT_DIR$/static/html/course-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/course-list.html" afterPath="$PROJECT_DIR$/static/html/course-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/course-video.html" afterPath="$PROJECT_DIR$/static/html/course-video.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/forgetpwd.html" afterPath="$PROJECT_DIR$/static/html/forgetpwd.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/index.html" afterPath="$PROJECT_DIR$/static/html/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/login.html" afterPath="$PROJECT_DIR$/static/html/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/org-detail-course.html" afterPath="$PROJECT_DIR$/static/html/org-detail-course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/org-detail-desc.html" afterPath="$PROJECT_DIR$/static/html/org-detail-desc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/org-detail-homepage.html" afterPath="$PROJECT_DIR$/static/html/org-detail-homepage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/org-detail-teachers.html" afterPath="$PROJECT_DIR$/static/html/org-detail-teachers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/org-list.html" afterPath="$PROJECT_DIR$/static/html/org-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/password_reset.html" afterPath="$PROJECT_DIR$/static/html/password_reset.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/register.html" afterPath="$PROJECT_DIR$/static/html/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/teacher-detail.html" afterPath="$PROJECT_DIR$/static/html/teacher-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/teachers-list.html" afterPath="$PROJECT_DIR$/static/html/teachers-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/usercenter-fav-course.html" afterPath="$PROJECT_DIR$/static/html/usercenter-fav-course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/usercenter-fav-org.html" afterPath="$PROJECT_DIR$/static/html/usercenter-fav-org.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/usercenter-fav-teacher.html" afterPath="$PROJECT_DIR$/static/html/usercenter-fav-teacher.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/usercenter-info.html" afterPath="$PROJECT_DIR$/static/html/usercenter-info.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/usercenter-message.html" afterPath="$PROJECT_DIR$/static/html/usercenter-message.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/html/usercenter-mycourse.html" afterPath="$PROJECT_DIR$/static/html/usercenter-mycourse.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/AdrInputPopDiv.js" afterPath="$PROJECT_DIR$/static/js/AdrInputPopDiv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/area.js" afterPath="$PROJECT_DIR$/static/js/area.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/autocomplete-init.js" afterPath="$PROJECT_DIR$/static/js/autocomplete-init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/comment.js" afterPath="$PROJECT_DIR$/static/js/comment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/deco-comment.js" afterPath="$PROJECT_DIR$/static/js/deco-comment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/deco-common.js" afterPath="$PROJECT_DIR$/static/js/deco-common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/deco-user.js" afterPath="$PROJECT_DIR$/static/js/deco-user.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/fliplightbox.min.js" afterPath="$PROJECT_DIR$/static/js/fliplightbox.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/fold.js" afterPath="$PROJECT_DIR$/static/js/fold.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/index.js" afterPath="$PROJECT_DIR$/static/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jQuery.artTxtCount.js" afterPath="$PROJECT_DIR$/static/js/jQuery.artTxtCount.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jcarousel.connected-carousels.js" afterPath="$PROJECT_DIR$/static/js/jcarousel.connected-carousels.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/static/js/jquery-migrate-1.2.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery-powerFloat-min.js" afterPath="$PROJECT_DIR$/static/js/jquery-powerFloat-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery-xmenu.js" afterPath="$PROJECT_DIR$/static/js/jquery-xmenu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.autocomplete.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.autocomplete.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.cookie.js" afterPath="$PROJECT_DIR$/static/js/jquery.cookie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.formset.js" afterPath="$PROJECT_DIR$/static/js/jquery.formset.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.imagezoom.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.imagezoom.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.jcarousel.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.jcarousel.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.uploadify.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.uploadify.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/login.js" afterPath="$PROJECT_DIR$/static/js/login.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/lq.datetimepick.js" afterPath="$PROJECT_DIR$/static/js/lq.datetimepick.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/datePicker/mobiscroll.css" afterPath="$PROJECT_DIR$/static/js/plugins/datePicker/mobiscroll.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/jquery.raty.js" afterPath="$PROJECT_DIR$/static/js/plugins/jquery.raty.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/jquery.timer.js" afterPath="$PROJECT_DIR$/static/js/plugins/jquery.timer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/jquery.upload.js" afterPath="$PROJECT_DIR$/static/js/plugins/jquery.upload.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/laydate/laydate.js" afterPath="$PROJECT_DIR$/static/js/plugins/laydate/laydate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/laydate/need/laydate.css" afterPath="$PROJECT_DIR$/static/js/plugins/laydate/need/laydate.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/laydate/skins/default/laydate.css" afterPath="$PROJECT_DIR$/static/js/plugins/laydate/skins/default/laydate.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/layer/extend/layer.ext.js" afterPath="$PROJECT_DIR$/static/js/plugins/layer/extend/layer.ext.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/layer/layer.js" afterPath="$PROJECT_DIR$/static/js/plugins/layer/layer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/layer/skin/layer.css" afterPath="$PROJECT_DIR$/static/js/plugins/layer/skin/layer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/layer/skin/layer.ext.css" afterPath="$PROJECT_DIR$/static/js/plugins/layer/skin/layer.ext.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/queryCity/js/public.js" afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/js/public.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/queryCity/js/public2.js" afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/js/public2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/plugins/upload.js" afterPath="$PROJECT_DIR$/static/js/plugins/upload.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/select.js" afterPath="$PROJECT_DIR$/static/js/select.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/selectUi.js" afterPath="$PROJECT_DIR$/static/js/selectUi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/unslider.js" afterPath="$PROJECT_DIR$/static/js/unslider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/validate.js" afterPath="$PROJECT_DIR$/static/js/validate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/validateDialog.js" afterPath="$PROJECT_DIR$/static/js/validateDialog.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/wechat.js" afterPath="$PROJECT_DIR$/static/js/wechat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MxOnline/settings.py" afterPath="$PROJECT_DIR$/MxOnline/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MxOnline/urls.py" afterPath="$PROJECT_DIR$/MxOnline/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,7 +34,7 @@
       <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/users/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="0">
               <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
@@ -144,7 +68,7 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/users/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
+            <state relative-caret-position="779">
               <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="e#26#65#0" expanded="true" />
@@ -153,12 +77,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="168" column="17" lean-forward="true" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+            <state relative-caret-position="-188">
+              <caret line="27" column="74" lean-forward="false" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-778">
+              <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#p#3;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#4;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1502815752000" expanded="false" signature="3132:3138" ph=" " />
+                <marker date="1502815752000" expanded="false" signature="3139:3145" ph=" " />
+                <marker date="1502815752000" expanded="false" signature="3364:3370" ph=" " />
+                <marker date="1502815752000" expanded="false" signature="3370:3376" ph=" " />
+                <marker date="1502815752000" expanded="false" signature="3376:3382" ph=" " />
+                <marker date="1502815752000" expanded="false" signature="3382:3388" ph=" " />
+                <marker date="1502815752000" expanded="false" signature="3388:3394" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MxOnline/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MxOnline/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="134" column="0" lean-forward="true" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+              <folding>
+                <element signature="e#312#321#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,7 +150,15 @@
       <find>apps.</find>
       <find>image</find>
       <find>TEMPLATE_DIRS</find>
+      <find>..</find>
+      <find>../css</find>
+      <find>../i</find>
+      <find>登</find>
     </findStrings>
+    <replaceStrings>
+      <replace>/static/img</replace>
+      <replace>/static/js</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/apps/courses</dir>
     </dirStrings>
@@ -200,8 +177,6 @@
         <option value="$PROJECT_DIR$/apps/operation/migrations/0002_auto_20170813_0758.py" />
         <option value="$PROJECT_DIR$/apps/organization/migrations/0001_initial.py" />
         <option value="$PROJECT_DIR$/apps/users/admin.py" />
-        <option value="$PROJECT_DIR$/MxOnline/urls.py" />
-        <option value="$PROJECT_DIR$/MxOnline/settings.py" />
         <option value="$PROJECT_DIR$/apps/users/models.py" />
         <option value="$PROJECT_DIR$/apps/courses/models.py" />
         <option value="$PROJECT_DIR$/apps/organization/adminx.py" />
@@ -218,6 +193,10 @@
         <option value="$PROJECT_DIR$/apps/courses/apps.py" />
         <option value="$PROJECT_DIR$/apps/organization/apps.py" />
         <option value="$PROJECT_DIR$/apps/users/__init__.py" />
+        <option value="$PROJECT_DIR$/MxOnline/settings.py" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/MxOnline/urls.py" />
       </list>
     </option>
   </component>
@@ -227,8 +206,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="11" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1295" />
     <option name="height" value="721" />
@@ -280,8 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -297,8 +273,18 @@
             <path>
               <item name="MxOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="MxOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="MxOnline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MxOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MxOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MxOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MxOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MxOnline" type="b2602c69:ProjectViewProjectNode" />
@@ -309,6 +295,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,14 +305,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/extra_apps" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/apps" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -543,19 +531,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="721" extended-state="6" />
+    <frame x="0" y="23" width="1295" height="721" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26655897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38498402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38498402" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27055067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -563,7 +552,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="manage.py@MxOnline" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34657836" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -599,27 +587,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MxOnline/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MxOnline/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MxOnline/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MxOnline/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -760,13 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MxOnline/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/django/utils/autoreload.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -792,13 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MxOnline/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -923,7 +876,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/users/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="0">
           <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
         </state>
@@ -951,7 +904,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/users/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
+        <state relative-caret-position="779">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="e#26#65#0" expanded="true" />
@@ -959,10 +912,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="148" column="6" lean-forward="false" selection-start-line="148" selection-start-column="6" selection-end-line="148" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MxOnline/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="134" column="0" lean-forward="true" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding>
+            <element signature="e#312#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-778">
+          <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#p#3;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#4;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1502815752000" expanded="false" signature="3132:3138" ph=" " />
+            <marker date="1502815752000" expanded="false" signature="3139:3145" ph=" " />
+            <marker date="1502815752000" expanded="false" signature="3364:3370" ph=" " />
+            <marker date="1502815752000" expanded="false" signature="3370:3376" ph=" " />
+            <marker date="1502815752000" expanded="false" signature="3376:3382" ph=" " />
+            <marker date="1502815752000" expanded="false" signature="3382:3388" ph=" " />
+            <marker date="1502815752000" expanded="false" signature="3388:3394" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="168" column="17" lean-forward="true" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        <state relative-caret-position="-188">
+          <caret line="27" column="74" lean-forward="false" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MxOnline/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
           <folding />
         </state>
       </provider>
