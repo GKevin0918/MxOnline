@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7f1d098-5686-49ac-bcce-a569c17accad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/courses/migrations/0002_auto_20170816_2322.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/users/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/register.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MxOnline/settings.py" afterPath="$PROJECT_DIR$/MxOnline/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MxOnline/urls.py" afterPath="$PROJECT_DIR$/MxOnline/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/users/views.py" afterPath="$PROJECT_DIR$/apps/users/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/login.html" afterPath="$PROJECT_DIR$/templates/login.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,8 +80,8 @@
       <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="151" column="52" lean-forward="true" selection-start-line="151" selection-start-column="52" selection-end-line="151" selection-end-column="52" />
+            <state relative-caret-position="239">
+              <caret line="154" column="111" lean-forward="true" selection-start-line="154" selection-start-column="111" selection-end-line="154" selection-end-column="111" />
               <folding />
             </state>
           </provider>
@@ -554,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502867900807</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="170817">
+      <created>1502901342359</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1502901342360</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -565,7 +564,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38338658" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38338658" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2786753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="manage.py@MxOnline" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34504792" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -630,7 +629,8 @@
     <MESSAGE value="Changes" />
     <MESSAGE value="LoginRegister_1" />
     <MESSAGE value="170816" />
-    <option name="LAST_COMMIT_MESSAGE" value="170816" />
+    <MESSAGE value="170817" />
+    <option name="LAST_COMMIT_MESSAGE" value="170817" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1026,8 +1026,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="151" column="52" lean-forward="true" selection-start-line="151" selection-start-column="52" selection-end-line="151" selection-end-column="52" />
+        <state relative-caret-position="239">
+          <caret line="154" column="111" lean-forward="true" selection-start-line="154" selection-start-column="111" selection-end-line="154" selection-end-column="111" />
           <folding />
         </state>
       </provider>
