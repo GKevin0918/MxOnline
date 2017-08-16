@@ -31,6 +31,9 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 # Application definition
+AUTHENTICATION_BACKENDS = [
+    'users.views.CustomBakend'
+]
 
 INSTALLED_APPS = [
     'django.contrib.admin',
